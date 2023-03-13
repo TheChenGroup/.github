@@ -9,7 +9,7 @@ We are a computational modelling group of the institute of condensed matter phys
 
 https://researchgate.net/profile/Ji_Chen27
 
-**Google Scholar: **
+**Google Scholar:**
 
 https://scholar.google.com/citations?user=wnMh2TIAAAAJ
 
