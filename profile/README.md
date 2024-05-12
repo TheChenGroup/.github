@@ -1,4 +1,4 @@
-![banner](../images/taken@2023.jpg)
+![banner](../images/taken@2024.jpg)
 
 [News](https://faculty.pku.edu.cn/chenji/en/zdylm/41012/list/index.htm) | [Research](https://faculty.pku.edu.cn/chenji/en/zdylm/41013/list/index.htm) | [Publications](https://faculty.pku.edu.cn/chenji/en/zdylm/41019/list/index.htm)
 
