@@ -1,3 +1,5 @@
+![Group Logo](https://github.com/TheChenGroup/.github/blob/main/logo/geee_wide.jpg)
+
 ![Photo of our group](https://github.com/TheChenGroup/.github/blob/main/images/taken%402024.jpg)
 
 [News](https://faculty.pku.edu.cn/chenji/en/zdylm/41012/list/index.htm) | [Research](https://faculty.pku.edu.cn/chenji/en/zdylm/41013/list/index.htm) | [Publications](https://faculty.pku.edu.cn/chenji/en/zdylm/41019/list/index.htm)
